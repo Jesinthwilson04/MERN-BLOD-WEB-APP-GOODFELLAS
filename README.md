@@ -113,27 +113,28 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-![1](https://github.com/user-attachments/assets/12504e70-13ab-440b-8377-ab72cf38cfb5))
+![1](https://github.com/user-attachments/assets/e8055c2e-eaba-46c0-86b0-7e3b9f71f547)
 ---- -
-![2](https://github.com/user-attachments/assets/1873697b-5dba-4be1-84f0-132c59d791a9)
+![2](https://github.com/user-attachments/assets/fc7271d9-769d-4e32-9b36-87173f1cd93c)
 
 --- - 
-![3](https://github.com/user-attachments/assets/c2761e9b-090c-4857-b7be-bd601a9e67cb)
+![3](https://github.com/user-attachments/assets/fa96c5cd-c43b-42fc-849c-6c47b03a4491)
 
 --- - 
-![4](https://github.com/user-attachments/assets/f78c3502-f127-4a1e-a4f3-5f985310849a)
-
+![4](https://github.com/user-attachments/assets/94113d38-2f96-48a7-924b-37cca504673e)
+ 
 --- - 
-![5](https://github.com/user-attachments/assets/1b4050e1-4494-45e0-98ed-e1244307e77c)
+![5](https://github.com/user-attachments/assets/855996c9-0acc-4d47-9da4-49ba49ee9c80)
 --- - 
-![6](https://github.com/user-attachments/assets/1b88551b-2cf7-4b10-b3b5-02ddb1777ab1)
+![6](https://github.com/user-attachments/assets/6ff67fc6-04db-4c7d-bb62-57196fef9c32)
 --- - 
-![7](https://github.com/user-attachments/assets/3cb3d74a-6657-476b-a401-8200af7238b2)
+![7](https://github.com/user-attachments/assets/6ce0dc01-61d0-4ad8-bfa6-3131219bbc7d)
 --- - 
-![8](https://github.com/user-attachments/assets/1cb5d0f3-1576-4d54-b98c-74f864a0dc37)
+![8](https://github.com/user-attachments/assets/dcbf2f28-5c41-4f67-bdf6-6e274b1b04ed)
 --- - 
-![9](https://github.com/user-attachments/assets/310a249c-7d4a-478f-8bb2-1f73c164ab48)
+![9](https://github.com/user-attachments/assets/79bceb42-bc58-47ce-a574-c8ff1d0227dc)
 --- - 
+![10](https://github.com/user-attachments/assets/a81e7478-5923-4b38-bed0-26260b1d2641)
 
 
 
