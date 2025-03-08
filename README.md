@@ -115,7 +115,7 @@ This project was created using the following technologies.
 
 ![1](https://github.com/user-attachments/assets/12504e70-13ab-440b-8377-ab72cf38cfb5))
 ---- -
-![2](https://github.com/user-attachments/assets/175555bd-acc7-4a43-8ccd-daa46492062d)
+![2](https://github.com/user-attachments/assets/1873697b-5dba-4be1-84f0-132c59d791a9)
 
 --- - 
 ![3](https://github.com/user-attachments/assets/c2761e9b-090c-4857-b7be-bd601a9e67cb)
